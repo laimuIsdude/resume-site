@@ -62,7 +62,7 @@ p {
 }
 
 .accordion-header:hover {
-  background: linear-gradient(to right, #ff6a00, #cc5500); /* A different gradient shown when the mouse hovers over the header for visual feedback. */
+  background: linear-gradient(to right, #ff6a00, #ff944d); /* A different gradient shown when the mouse hovers over the header for visual feedback. */
 }
 
 .accordion-content {
@@ -189,7 +189,7 @@ p {
 }
 
 #openModal:hover {
-  background: linear-gradient(to right, #ff6a00, #cc5500);
+  background: linear-gradient(to right, #ff6a00, #ff944d);
 }
 
 .modal {
